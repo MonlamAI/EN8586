@@ -1,0 +1,14 @@
+Willing Candidate
+
+Recently, I was in a selection committee to recruit a software engineer for a small firm. There were many young girls and boys anxiously awaiting their turn. They were all in the age group of twenty-one to twenty-four. It was probably the first interview for many of them and they looked tense. They were all computer science graduates, so I was sure that their technical knowledge would be sound.
+It was the turn of a young boy. He was well mannered and as soon as he entered the room, he produced his certificates. The topmost one attested to his knowledge of Java, GW Basic, C++, etc.
+I casually asked him how much time he would require to learn a new computer language.
+‘Not more than six months,’ he replied.
+Suddenly, my mind flashed back to a quarter-century earlier. I had met a young man of the same age as this boy in a similar situation and had asked him a similar question. But the answer I had received was so different. The young boy then had answered with confidence: ‘I don’t know anything about computers or their language. But give me four months’ time. I will try to understand computers and I will come back to tell you how much time I require to learn the language.’
+I was bowled over by his confidence and his straightforwardness. I still remember the whole scene vividly.
+That was in Bombay. I was on an overview panel and this young man, who was basically a civil engineer, had come for the interview. It was for the post of a software engineer. Many people had done well in the interview. He was the
+ 
+last candidate to appear. He entered the interview room with a very clear mind and was very frank. He was given a logic test, not related to computers, and he solved it quickly. He made it clear that he had no computer background but that he was ready to learn and if found good, hoped to be given the job.
+He got the job, worked relentlessly and came back saying, ‘Give me any language. I will learn it in ten days. I will master it. Computer language is just a tool. The essence of programming is logic. One requires good logic, and that I have mastered.’
+Over a period of time he did master many languages and became one of the most successful programmers I know. Though he was a junior, most of his seniors, including me, would ask for his opinion. He would do a lot more homework on the desk than on the system and once he started programming there would never be a single bug.
+Whenever a youngster talks about computers, I am reminded of this young man with his admirable willingness to learn and frankness in accepting things. I pray that all our colleges produce more students like him.
